@@ -1,0 +1,14 @@
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\bin\Debug\net6.0\BookStore.Models.deps.json
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\obj\Debug\net6.0\BookStore.Models.csproj.AssemblyReference.cache
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\obj\Debug\net6.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\obj\Debug\net6.0\BookStore.Models.AssemblyInfoInputs.cache
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\obj\Debug\net6.0\BookStore.Models.AssemblyInfo.cs
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\obj\Debug\net6.0\BookStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\obj\Debug\net6.0\BookStore.Models.dll
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\obj\Debug\net6.0\refint\BookStore.Models.dll
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\obj\Debug\net6.0\BookStore.Models.pdb
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\obj\Debug\net6.0\ref\BookStore.Models.dll
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\bin\Debug\net6.0\BookStore.Models.runtimeconfig.json
+C:\Users\Chandan Mishra\source\repos\BookStore-Backend\BookStore.Models\obj\Debug\net6.0\BookStore.Models.genruntimeconfig.cache
